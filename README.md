@@ -37,8 +37,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=datawith-rohit&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
-<p align="center">
- <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="" alt="GitHub Readme Stats" />
+<p align="front">
+ <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="front" alt="GitHub Readme Stats" />
 </p
 
 ---
