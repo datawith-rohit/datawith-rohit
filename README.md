@@ -1,32 +1,10 @@
 # About Me:
-## 👋 Hi, I’m Rohit Gharal
+## 👋 Hi, I’m Rohit Gharal  
+📊 Data Analyst | Aspiring Data Scientist  
 
-### 🔭 Currently working on
-- Data analysis and data science projects using **Python, SQL, Power BI, and Excel**
-- Real-world datasets with a focus on **data cleaning, visualization, and actionable insights**
-
-### 👯 Looking to collaborate on
-- **Data Science and Analytics** projects
-- Python-based data analysis, dashboard development, and beginner-friendly open-source initiatives
-
-### 🤝 Looking for guidance on
-- Improving **machine learning model performance**
-- Best practices for **end-to-end data science workflows and deployment**
-
-### 🌱 Currently learning
-- **Machine Learning and AI** fundamentals
-- Advanced **Python**, **Power BI**, and **SQL optimization techniques**
-
-### 💬 Ask me about
-- Python for data analysis  
-- SQL queries and optimization  
-- Power BI dashboards and Excel analytics  
-- Data Science and Statistics fundamentals  
-
-### ⚡ Fun fact
-- I enjoy transforming raw data into meaningful insights and participated in the **Thunderbyte Hackathon 2025** 🚀
-
-
+- I work on data analysis and data science projects using **Python, SQL, Power BI, and Excel**, with a focus on **data cleaning, visualization, and actionable insights**.  
+- Currently learning **Machine Learning & AI** and open to collaborating on **Data Science & Analytics projects**. 
+- I enjoy transforming raw data into meaningful insights and participated in the **Thunderbyte Hackathon 2025**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-gharal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitgharal18@gmail.com) 
