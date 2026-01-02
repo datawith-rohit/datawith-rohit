@@ -1,5 +1,31 @@
 # 💫 About Me:
-Hi, I’m Rohit Gharal<br><br>🔭 I’m currently working on<br><br>Data analysis and data science projects using Python, SQL, Power BI, and Excel<br><br>Real-world datasets focusing on data cleaning, visualization, and insights<br><br>👯 I’m looking to collaborate on<br><br>Data Science & Analytics projects<br><br>Python-based data analysis, dashboards, and beginner-friendly open-source projects<br><br>🤝 I’m looking for help with<br><br>Improving machine learning model performance<br><br>Best practices for end-to-end data science projects and deployment<br><br>🌱 I’m currently learning<br><br>Machine Learning & AI concepts<br><br>Advanced Python, Power BI, and SQL optimization<br><br>💬 Ask me about<br><br>Python for data analysis<br><br>SQL queries, Power BI dashboards, Excel analytics<br><br>Basics of Data Science & Statistics<br><br>⚡ Fun fact<br><br>I love turning raw data into meaningful insights and I participated in the Thunderbyte Hackathon 2025 🚀
+## 👋 Hi, I’m Rohit Gharal
+
+### 🔭 Currently working on
+- Data analysis and data science projects using **Python, SQL, Power BI, and Excel**
+- Real-world datasets with a focus on **data cleaning, visualization, and actionable insights**
+
+### 👯 Looking to collaborate on
+- **Data Science and Analytics** projects
+- Python-based data analysis, dashboard development, and beginner-friendly open-source initiatives
+
+### 🤝 Looking for guidance on
+- Improving **machine learning model performance**
+- Best practices for **end-to-end data science workflows and deployment**
+
+### 🌱 Currently learning
+- **Machine Learning and AI** fundamentals
+- Advanced **Python**, **Power BI**, and **SQL optimization techniques**
+
+### 💬 Ask me about
+- Python for data analysis  
+- SQL queries and optimization  
+- Power BI dashboards and Excel analytics  
+- Data Science and Statistics fundamentals  
+
+### ⚡ Fun fact
+- I enjoy transforming raw data into meaningful insights and participated in the **Thunderbyte Hackathon 2025** 🚀
+
 
 
 ## 🌐 Socials:
