@@ -1,5 +1,6 @@
 # About Me:
 ## 👋 Hi, I’m Rohit Gharal
+###    📊 Data Analyst | Aspiring Data Scientist
 
 ### 🔭 Currently working on
 - Data analysis and data science projects using **Python, SQL, Power BI, and Excel**
