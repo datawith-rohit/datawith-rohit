@@ -34,10 +34,7 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=datawith-rohit&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=datawith-rohit&limit=5&theme=rose&combine_all_yearly_contributions=true)
-
-## ⭐ Top Projects
+## ⭐ Projects:
 
 | Project | Description |
 |-------|------------|
