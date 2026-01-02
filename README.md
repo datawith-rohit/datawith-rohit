@@ -4,7 +4,7 @@
 
 - I work on data analysis and data science projects using **Python, SQL, Power BI, and Excel**, with a focus on **data cleaning, visualization, and actionable insights**.  
 - Currently learning **Machine Learning & AI** and open to collaborating on **Data Science & Analytics projects**. 
-- I enjoy transforming raw data into meaningful insights and participated in the **Thunderbyte Hackathon 2025**
+- I enjoy transforming raw data into meaningful insights and participated in the **Thunderbyte Hackathon 2025**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-gharal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitgharal18@gmail.com) 
@@ -18,22 +18,15 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🧰 Tools & Platforms
-
-<p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&
+</p>
 
----    
+---
+   
 ##  📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=datawith-rohit&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=datawith-rohit&theme=holi&hide_border=false)<br/>
