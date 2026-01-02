@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ## 👋 Hi, I’m Rohit Gharal
 
 ### 🔭 Currently working on
