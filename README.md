@@ -47,6 +47,9 @@
 | 🔗 [Demo Git](https://github.com/datawith-rohit/demo_git) | Git & GitHub fundamentals |
 | 🔗 [Profile Repository](https://github.com/datawith-rohit/datawith-rohit) | GitHub profile showcase |
 
+## 🏆 Top Contributed Repos
+
+[![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=datawith-rohit&limit=5&theme=rose&combine_all_yearly_contributions=true)](https://github.com/datawith-rohit)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=datawith-rohit&icon=0&color=0)](https://visitcount.itsvg.in)
