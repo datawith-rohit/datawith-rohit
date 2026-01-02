@@ -42,14 +42,8 @@
 | Project | Description |
 |-------|------------|
 | 🔗 [Movie Ticket Booking DBMS](https://github.com/datawith-rohit/Movie-Ticket-Booking-Database-Management-System-MySQL-) | MySQL-based database management system |
-| 🔗 [Tech Salary Analytics – India 2025](https://github.com/datawith-rohit/Tech-Salary-Analytics-Dashboard-India-2025-Excel-Data-Visualization) | Excel dashboard with data insights |
-| 🔗 [Power BI Sales Dashboard](https://github.com/datawith-rohit/Power-BI-Sales-Analytics-Dashboard) | Interactive Power BI analytics |
-| 🔗 [Demo Git](https://github.com/datawith-rohit/demo_git) | Git & GitHub fundamentals |
+| 🔗 [Tech Salary Analytics – India 2025](https://github.com/datawith-rohit/Tech-Salary-Analytics-Dashboard-India-2025-Excel-Data-Visualization-Project) | Excel dashboard with data insights |
 | 🔗 [Profile Repository](https://github.com/datawith-rohit/datawith-rohit) | GitHub profile showcase |
-
-## 🏆 Top Contributed Repos
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=datawith-rohit&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=datawith-rohit&icon=0&color=0)](https://visitcount.itsvg.in)
