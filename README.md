@@ -26,7 +26,9 @@
 </p>
 
    
-##  📊 GitHub Stats:
+##  <p align="front"> GitHub Stats:
+ <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" />
+</p>
 ![](https://github-readme-stats.vercel.app/api?username=datawith-rohit&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=datawith-rohit&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=datawith-rohit&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -36,10 +38,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=datawith-rohit&limit=5&theme=rose&combine_all_yearly_contributions=true)
-
-<p align="front">
- <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" />
-</p
 
 ---
 [![](https://visitcount.itsvg.in/api?id=datawith-rohit&icon=0&color=0)](https://visitcount.itsvg.in)
