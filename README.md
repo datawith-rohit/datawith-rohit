@@ -38,7 +38,7 @@
 
 | Project | Description |
 |-------|------------|
-| 🔗 [Movie Ticket Booking DBMS](https://github.com/datawith-rohit/Movie-Ticket-Booking-Database-Management-System-MySQL-) | MySQL-based database management system |
+| 🔗 [Movie Ticket Booking DBMS](https://github.com/datawith-rohit/Movie-Ticket-Booking-Database-Management-System-MySQL-) | MySQL-based database system designed to manage movie listings, bookings, users, and transactions efficiently.|
 | 🔗 [Tech Salary Analytics – India 2025](https://github.com/datawith-rohit/Tech-Salary-Analytics-Dashboard-India-2025-Excel-Data-Visualization-Project) | Excel dashboard with data insights |
 | 🔗 [Seasonal Tourism Impact Dashboard-Power BI](https://github.com/datawith-rohit/Seasonal-Tourist-Impact-Dashboard-Power-BI) | Interactive Power BI dashboard built using Power Query and DAX to analyze trends, KPIs, and performance metrics. |
 
