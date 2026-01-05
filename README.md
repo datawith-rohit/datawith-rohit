@@ -34,6 +34,7 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=datawith-rohit&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
+
 ## ⭐ Projects:
 
 | Project | Description |
