@@ -40,7 +40,7 @@
 |-------|------------|
 | 🔗 [Movie Ticket Booking DBMS](https://github.com/datawith-rohit/Movie-Ticket-Booking-Database-Management-System-MySQL-) | MySQL-based database management system |
 | 🔗 [Tech Salary Analytics – India 2025](https://github.com/datawith-rohit/Tech-Salary-Analytics-Dashboard-India-2025-Excel-Data-Visualization-Project) | Excel dashboard with data insights |
-| 🔗 [Seasonal Tourism Impact Dashboard-Power BI](https://github.com/datawith-rohit/datawith-rohit) | Interactive Power BI dashboard built using Power Query and DAX to analyze trends, KPIs, and performance metrics. |
+| 🔗 [Seasonal Tourism Impact Dashboard-Power BI]([https://github.com/datawith-rohit/datawith-rohit](https://github.com/datawith-rohit/Seasonal-Tourist-Impact-Dashboard-Power-BI)) | Interactive Power BI dashboard built using Power Query and DAX to analyze trends, KPIs, and performance metrics. |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=datawith-rohit&icon=0&color=0)](https://visitcount.itsvg.in)
