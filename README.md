@@ -43,6 +43,7 @@
 | 🔗 [Tech Salary Analytics – India 2025](https://github.com/datawith-rohit/Tech-Salary-Analytics-Dashboard-India-2025-Excel-Data-Visualization-Project) | Data analysis project using **Excel** to analyze tech salary trends and generate actionable insights through dashboards.|
 | 🔗 [Seasonal Tourism Impact Dashboard-Power BI](https://github.com/datawith-rohit/Seasonal-Tourist-Impact-Dashboard-Power-BI) | Interactive **Power BI** dashboard built using Power Query and DAX to analyze trends, KPIs, and performance metrics. |
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datawith-rohit" alt="datawith-rohit" /></a> </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=datawith-rohit&icon=0&color=0)](https://visitcount.itsvg.in)
 
