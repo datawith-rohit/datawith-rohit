@@ -27,7 +27,7 @@
 
    
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=datawith-rohit&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=datawith-rohit&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=datawith-rohit&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=datawith-rohit&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
